@@ -1,0 +1,23 @@
+#dependencies
+node_modules
+
+#tmp files
+tmp
+tmp/*
+!tmp/.gitkeep
+
+#compiled code
+dist
+
+#logs
+yarn-error.*
+
+#test
+coverage
+coverage/*
+
+#vscode folder
+.vscode
+.vscode/*
+
+.env
